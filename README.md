@@ -1,4 +1,5 @@
 
 
 CV#1. Markdown & Git
-https://maksimteg.github.io/rsschool-cv/cv
+
+https://maksimteg.github.io/rsschool-cv/cv.md
