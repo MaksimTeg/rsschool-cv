@@ -1,1 +1,1 @@
-https://MaksimTeg.github.io/rsschool-cv/rsschool-cv-html/index.html
+https://MaksimTeg.github.io/rsschool-cv/rsschool-cv-html/
