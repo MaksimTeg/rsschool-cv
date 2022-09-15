@@ -2,4 +2,4 @@
 
 CV#1. Markdown & Git
 
-https://maksimteg.github.io/rsschool-cv/cv.md
+https://MaksimTeg.github.io/rsschool-cv/cv.md
