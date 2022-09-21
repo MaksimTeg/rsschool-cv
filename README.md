@@ -1,2 +1,2 @@
 
-https://maksimteg.github.io/rsschool-cv/tree/rsschool-cv-html/rsschool-cv-html/index
+https://maksimteg.github.io/rsschool-cv/rsschool-cv-html/index
