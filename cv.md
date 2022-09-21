@@ -6,6 +6,7 @@ Maksim Tegliankov
 * RS Shool              @MaksimTeg#1213
 * GitHub                [MaksimTeg](https://github.com/MaksimTeg)
 
+-------------------     ---------------------------------
 
 ## Education
 ---------
