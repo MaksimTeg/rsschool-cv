@@ -10,4 +10,4 @@
   CV#2. HTML, CSS & Git Basics
   
   
-  https://MaksimTeg.github.io/rsschool-cv/
+  https://MaksimTeg.github.io/rsschool-cv/idex
