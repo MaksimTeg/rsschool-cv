@@ -12,7 +12,7 @@ Maksim Tegliankov
 ---------
 
 
-:   **Belarusian State University** 
+   **Belarusian State University** 
 
 Bachelor in Financial Management
 
