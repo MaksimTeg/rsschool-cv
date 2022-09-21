@@ -8,4 +8,5 @@
   
   CV#2. HTML, CSS & Git Basics
   
-  https://MaksimTeg.github.io/rsschool-cv/rsschool-cv-html/index
+  
+  https://MaksimTeg.github.io/rsschool-cv/
