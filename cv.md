@@ -5,7 +5,7 @@ Maksim Tegliankov
 * Email                 tegliankov@yahoo.com
 * RS Shool              @MaksimTeg#1213
 * GitHub                [MaksimTeg](https://github.com/MaksimTeg)
--------------------     ---------------------------------
+
 
 ## Education
 ---------
