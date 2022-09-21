@@ -1,11 +1,12 @@
 Maksim Tegliankov
 =================
 
--------------------     --------------------------------------------
+-------------------     ---------------------------------
 * Email                 tegliankov@yahoo.com
 * RS Shool              @MaksimTeg#1213
 * GitHub                [MaksimTeg](https://github.com/MaksimTeg)
--------------------     --------------------------------------------
+
+-------------------     ---------------------------------
 
 ## Education
 ---------
@@ -31,6 +32,7 @@ learning Node.JS, MongoDB, and Express.JS. I'm still enthusiastically grabbing o
 
 ## Technical Experience
 --------------------
+
 
 Personal code
 
