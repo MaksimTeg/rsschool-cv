@@ -10,4 +10,4 @@ CV#1. Markdown & Git
  CV#2. HTML, CSS & Git Basics
   
   
-  https://MaksimTeg.github.io/rsschool-cv/cv
+  https://MaksimTeg.github.io/rsschool-cv/
